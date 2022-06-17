@@ -4,3 +4,5 @@ My second message!
 My third message!
 
 Global message!
+
+Remote message!
