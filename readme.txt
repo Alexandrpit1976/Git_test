@@ -1,6 +1,6 @@
-My first massage!
-My second massage!
+My first message!
+My second message!
 
-My third massage!
+My third message!
 
-Global massage!
+Global message!
